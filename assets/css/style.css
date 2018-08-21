@@ -231,7 +231,7 @@ h3,
 .sidebar li {
   /* Box-model */
   float: left;
-  width: 62px;
+  width: 60px;
   height: 62px;
 
   /* Positioning */
